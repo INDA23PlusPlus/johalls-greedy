@@ -16,4 +16,6 @@
 
 [joggers](https://kth.kattis.com/courses/DD2016/plusplus23/assignments/k69wws/submissions/12448508)
 
+[ambush](https://kth.kattis.com/courses/DD2016/plusplus23/assignments/k69wws/submissions/12492965)
+
 [nesteddolls](https://kth.kattis.com/courses/DD2016/plusplus23/assignments/k69wws/submissions/12464599)
